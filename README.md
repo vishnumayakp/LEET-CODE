@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/vishnumayakp/LEET-CODE/tree/master/0412-fizz-buzz) |
+| [1297-maximum-number-of-balloons](https://github.com/vishnumayakp/LEET-CODE/tree/master/1297-maximum-number-of-balloons) |
 ## Simulation
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1168-duplicate-zeros](https://github.com/vishnumayakp/LEET-CODE/tree/master/1168-duplicate-zeros) |
+## Hash Table
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/vishnumayakp/LEET-CODE/tree/master/1297-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/vishnumayakp/LEET-CODE/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
