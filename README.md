@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2502-sort-the-people](https://github.com/vishnumayakp/LEET-CODE/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnumayakp/LEET-CODE/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Database
+|  |
+| ------- |
+| [1161-project-employees-i](https://github.com/vishnumayakp/LEET-CODE/tree/master/1161-project-employees-i) |
 <!---LeetCode Topics End-->
