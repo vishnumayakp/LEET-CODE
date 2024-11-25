@@ -52,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-project-employees-i](https://github.com/vishnumayakp/LEET-CODE/tree/master/1161-project-employees-i) |
+| [1877-find-followers-count](https://github.com/vishnumayakp/LEET-CODE/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
