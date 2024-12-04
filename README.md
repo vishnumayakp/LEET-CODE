@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/vishnumayakp/LEET-CODE/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/vishnumayakp/LEET-CODE/tree/master/1161-project-employees-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/vishnumayakp/LEET-CODE/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/vishnumayakp/LEET-CODE/tree/master/1670-patients-with-a-condition) |
 | [1877-find-followers-count](https://github.com/vishnumayakp/LEET-CODE/tree/master/1877-find-followers-count) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/vishnumayakp/LEET-CODE/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
