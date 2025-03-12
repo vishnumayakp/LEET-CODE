@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/vishnumayakp/LEET-CODE/tree/master/1390-average-selling-price) |
 | [1625-group-sold-products-by-the-date](https://github.com/vishnumayakp/LEET-CODE/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/vishnumayakp/LEET-CODE/tree/master/1670-patients-with-a-condition) |
+| [1811-fix-names-in-a-table](https://github.com/vishnumayakp/LEET-CODE/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/vishnumayakp/LEET-CODE/tree/master/1877-find-followers-count) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/vishnumayakp/LEET-CODE/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
