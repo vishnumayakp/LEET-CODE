@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/vishnumayakp/LEET-CODE/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/vishnumayakp/LEET-CODE/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/vishnumayakp/LEET-CODE/tree/master/1390-average-selling-price) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/vishnumayakp/LEET-CODE/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/vishnumayakp/LEET-CODE/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/vishnumayakp/LEET-CODE/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/vishnumayakp/LEET-CODE/tree/master/1811-fix-names-in-a-table) |
