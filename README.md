@@ -62,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/vishnumayakp/LEET-CODE/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/vishnumayakp/LEET-CODE/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/vishnumayakp/LEET-CODE/tree/master/1877-find-followers-count) |
+| [2057-count-salary-categories](https://github.com/vishnumayakp/LEET-CODE/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/vishnumayakp/LEET-CODE/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
