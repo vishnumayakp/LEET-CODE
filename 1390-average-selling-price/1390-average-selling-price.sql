@@ -1,17 +1,12 @@
+/* Write your T-SQL query statement below */
 SELECT 
-    a.product_id, 
-    COALESCE(
-        ROUND(
-            SUM(CAST(a.price * u.units AS DECIMAL(10, 2))) 
-            / NULLIF(SUM(CAST(u.units AS DECIMAL(10, 2))), 0), 
-        2), 
-        0
+    p.product_id,
+    ROUND(
+        COALESCE(SUM(u.units * p.price) * 1.0 / NULLIF(SUM(u.units) * 1.0, 0), 0), 2
     ) AS average_price
-FROM 
-    Prices a 
-LEFT JOIN 
-    UnitsSold u 
-    ON a.product_id = u.product_id 
-    AND u.purchase_date BETWEEN a.start_date AND a.end_date
-GROUP BY 
-    a.product_id;
+FROM Prices p
+LEFT JOIN UnitsSold u 
+    ON p.product_id = u.product_id 
+    AND u.purchase_date BETWEEN p.start_date AND p.end_date
+GROUP BY p.product_id;
+
